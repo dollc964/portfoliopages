@@ -106,7 +106,7 @@ h3 {
   text-align: left;
   margin-bottom: 1000px;
   max-width: 360px;
-  transform: translateX(-375px) translateY(-2100px);
+  transform: translateX(-387px) translateY(-2045px);
 }
 h4 {
   font-size: 30px;
@@ -130,4 +130,36 @@ h6 {
   font-family: 'Red Hat Mono', monospace;
   color: white;
   transform: translateX(-450px) translateY(-350px);
+}
+h7 {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  font-size: 50px;
+  font-family: 'Red Hat Mono', monospace;
+  color: white;
+  transform: translateY(-3430px)
+}
+h8 {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  font-size: 50px;
+  font-family: 'Red Hat Mono', monospace;
+  color: white;
+  transform: translateX(835px) translateY(-3430px)
+}
+h9 {
+  writing-mode: vertical-rl;
+  text-orientation: upright;
+  font-size: 50px;
+  font-family: 'Red Hat Mono', monospace;
+  color: white;
+  transform: translateX(-55px) translateY(-2950px)
+}
+h10 {
+    writing-mode: vertical-rl;
+    text-orientation: upright;
+    font-size: 50px;
+    font-family: 'Red Hat Mono', monospace;
+    color: white;
+    transform: translateX(780px) translateY(-3050px)
 }
